@@ -218,14 +218,6 @@ Não é permitido:
 
 O autor não se responsabiliza por qualquer uso indevido. Ao clonar ou executar este código, você assume total responsabilidade legal pelas suas ações.
 
----
-
-📄 Licença
-
-Distribuído sob a licença MIT para fins educacionais. Consulte o arquivo LICENSE para mais informações.
-
----
-
 🤝 Contribuições
 
 Contribuições são bem-vindas para melhorias de código, refatoração e documentação, desde que mantidos os fins educacionais. Abra uma issue ou envie um pull request.
